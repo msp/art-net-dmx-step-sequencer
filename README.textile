@@ -1,0 +1,19 @@
+h1. Light & Sound Instrument
+
+
+Patch for this performance: "http://www.contactscreenings.co.uk":http://www.contactscreenings.co.uk
+
+* Control DMX lighting fixture(s) via Art-Net
+* Make sound
+
+h2. Configure & Run
+
+Run in "Max 7":https://cycling74.com/products/max/.
+
+Requires the "imp.dmx":http://www.theimpersonalstereo.com/impdmx/ library.
+
+h2. Thanks
+
+- "Max 7":https://cycling74.com/products/max/
+- "imp.dmx":http://www.theimpersonalstereo.com/impdmx/
+- "Contact Festival":http://www.contactscreenings.co.uk
